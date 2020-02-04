@@ -13,7 +13,11 @@ dependencies:
   meta: ^1.1.6
 
   google_api_availability: ^2.0.2
-  location_permissions: ^2.0.4+1
+  location_permissions:
+    git:
+      url: https://github.com/BorisLok/flutter-permission-plugins
+      path: packages/location_permissions
+      ref: afe5b1ea6404b849a414a5912d03c054cadcd3c0
   vector_math: ^2.0.8
 
 dev_dependencies:
