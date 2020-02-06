@@ -17,7 +17,7 @@ dependencies:
     git:
       url: https://github.com/BorisLok/flutter-permission-plugins
       path: packages/location_permissions
-      ref: afe5b1ea6404b849a414a5912d03c054cadcd3c0
+      ref: 3a36218be97444b55a97ba7e0cc89be58b064fa4
   vector_math: ^2.0.8
 
 dev_dependencies:
